@@ -1,4 +1,4 @@
-# Data Analysis and Data Visualization using Python
+# Data Analysis and Visualization using Python
 
 Welcome! Here are the Python codes I produce for teaching purposes.
 
