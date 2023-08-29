@@ -4,8 +4,8 @@ Welcome! Here are the Python codes I produce for teaching purposes.
 
 ## Table of Contents
 
-- [Python Basics 1]:(https://oneryigit.github.io/PLSC-380/Module_1.html)
-- [Python Basics 2]:(https://oneryigit.github.io/PLSC-380/Module_2.html)
+- [Python Basics 1: ](https://oneryigit.github.io/PLSC-380/Module_1.html)
+- [Python Basics 2: ](https://oneryigit.github.io/PLSC-380/Module_2.html)
 - [Python Basics 3]:(https://oneryigit.github.io/PLSC-380/Module_2b.html)
 - [Numpy]:(https://oneryigit.github.io/PLSC-380/Module_3_numpy.html)
 - [Pandas]:(https://oneryigit.github.io/PLSC-380/Module_3_Pandas.html)
