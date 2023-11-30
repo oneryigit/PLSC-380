@@ -1,6 +1,12 @@
 # Data Analysis and Visualization using Python
 
-Welcome! Here are the Python codes I produce for teaching purposes.
+Welcome! 
+
+My name is (Öner Yigit)[https://oneryigit.github.io/]. I am a PhD candidate in Political Science at Binghamton University. 
+
+This page contains Python notebooks I prepared for teaching purposes. Feel free to use them for your own purposes. 
+
+Should you have questions, you can reach out to me at [email](oyigit1@binghamton.edu).
 
 ## Table of Contents
 
