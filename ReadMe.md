@@ -6,7 +6,7 @@ My name is [Öner Yigit](https://oneryigit.github.io/). I am a PhD candidate in 
 
 This page contains Python notebooks I prepared for teaching purposes. Feel free to use them for your own purposes. 
 
-Should you have questions, you can reach out to me at [email](oyigit1@binghamton.edu).
+Should you have questions, you can reach out to me.
 
 ## Table of Contents
 
