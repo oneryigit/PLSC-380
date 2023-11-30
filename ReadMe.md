@@ -2,7 +2,7 @@
 
 Welcome! 
 
-My name is (Öner Yigit)[https://oneryigit.github.io/]. I am a PhD candidate in Political Science at Binghamton University. 
+My name is [Öner Yigit](https://oneryigit.github.io/). I am a PhD candidate in Political Science at Binghamton University. 
 
 This page contains Python notebooks I prepared for teaching purposes. Feel free to use them for your own purposes. 
 
